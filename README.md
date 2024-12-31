@@ -1,3 +1,3 @@
-# Declarative Command Pipelines
+# Executable (Invocable) URIs
 
-Illustrations for the [Declarative Command Pipelines](https://medium.com/nasdanika/declarative-command-pipelines-5c70468e7a7e) Medium story.
+Illustrations for the [Executable (invocable) URIs](https://medium.com/nasdanika/executable-invocable-uris-467fa757c58b) Medium story.
